@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: "/blog"
+baseurl: ""
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
 lang: en-US
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/19751518?s=400&u=8c96922978cc688b1ad6b9a22bf081add41c34d8&v=4
+avatar: /assets/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
