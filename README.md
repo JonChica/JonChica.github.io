@@ -1,1 +1,1 @@
-(https://jonchica.github.io/blog/)
+https://jonchica.github.io/blog/
